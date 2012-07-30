@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 Fangen wir mal auch hier mit Text an.
-=======
+
 Ein paralleles Update in dieser Datei - was nun?
->>>>>>> Lokales Update 3
+
